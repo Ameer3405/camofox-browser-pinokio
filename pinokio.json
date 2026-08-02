@@ -1,0 +1,5 @@
+{
+  "title": "camofox-browser",
+  "description": "Stealth headless browser for AI agents - bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+  "icon": "icon.png"
+}
