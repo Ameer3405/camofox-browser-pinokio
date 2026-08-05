@@ -245,6 +245,15 @@ Add this to your MCP client config, substituting the real port:
 On macOS/Linux use the POSIX path instead, e.g.
 `~/pinokio/api/camofox-browser-pinokio/app/mcp/server.mjs`.
 
+> **If your MCP client reports "node: not found":** the client is not inheriting a Node on `PATH`.
+> Pinokio bundles one — point `command` at it directly instead:
+> `C:\pinokio\bin\miniforge\node.exe` on Windows, or `<PINOKIO_HOME>/bin/miniforge/bin/node` on
+> macOS/Linux. Requires Node 22+, which the bundled runtime satisfies.
+
+Verified working: the server reports
+`[camofox-browser-mcp] v1.13.1 connected → http://127.0.0.1:<port>` on stderr and returns all 11
+tools below.
+
 Tools exposed: `camofox_create_tab`, `camofox_snapshot`, `camofox_click`, `camofox_type`,
 `camofox_navigate`, `camofox_scroll`, `camofox_screenshot`, `camofox_close_tab`,
 `camofox_evaluate`, `camofox_list_tabs`, `camofox_import_cookies`.
