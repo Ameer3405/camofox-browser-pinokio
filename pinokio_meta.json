@@ -1,0 +1,21 @@
+{
+  "links": [{
+    "title": "DSRPT",
+    "links": [{
+      "title": "X",
+      "value": "https://x.com/dsrptai"
+    }, {
+      "title": "Website",
+      "value": "https://dsrpt.ai"
+    }]
+  }, {
+    "title": "Upstream",
+    "links": [{
+      "title": "camofox-browser",
+      "value": "https://github.com/jo-inc/camofox-browser"
+    }, {
+      "title": "Camoufox",
+      "value": "https://camoufox.com/"
+    }]
+  }]
+}

@@ -1,0 +1,14 @@
+ENVIRONMENT
+/app
+node_modules
+venv
+.env
+.*
+!.gitignore
+~*
+/logs/
+/cache/
+# AI agent instruction files and build specs - never publish these.
+# Covers every root-level markdown file except the documentation.
+/*.md
+!/README.md

@@ -1,6 +1,6 @@
 const path = require('path')
 module.exports = {
-  version: "7.0",
+  version: "8.0.0",
   title: "camofox-browser",
   description: "Stealth headless browser for AI agents - bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. https://github.com/jo-inc/camofox-browser",
   icon: "icon.png",

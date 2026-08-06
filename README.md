@@ -223,8 +223,8 @@ The complete, always-current reference is served by the app itself:
 ## Using it as an MCP server
 
 The app also ships a Model Context Protocol server (stdio transport) that exposes the browser as
-tools to Claude Code, Cursor, opencode, and similar clients. It is a thin client over the REST API,
-so **the Pinokio `start.js` script must be running** for it to work.
+tools to any MCP-compatible client. It is a thin client over the REST API, so **the Pinokio
+`start.js` script must be running** for it to work.
 
 Add this to your MCP client config, substituting the real port:
 
@@ -287,3 +287,11 @@ Camoufox launch takes 6–7 seconds. Subsequent calls reuse it.
 - Browser engine: [Camoufox](https://camoufox.com/).
 - This folder contains only the Pinokio launcher scripts; the app itself is cloned into `app/` at
   install time and is not modified.
+
+## License
+
+The `LICENSE` file in this repository (MIT) covers **the Pinokio launcher scripts only** —
+`install.js`, `start.js`, `reset.js`, `update.js`, `pinokio.js`, and this documentation.
+
+camofox-browser itself is separately licensed by its authors and ships its own MIT `LICENSE`
+inside `app/` after installation. Camoufox and the browser binary carry their own upstream terms.
